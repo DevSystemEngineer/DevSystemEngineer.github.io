@@ -1,16 +1,22 @@
 @import url('http://fonts.googleapis.com/earlyaccess/nanumgothic.css');
 
+@font-face {
+    font-family: 'BMJUA_ttf';
+    src: url(/BMJUA_ttf.ttf) format('truetype');
+}
+
 h3 {
     color: red;
 }
 
 h1 {
     color: blue;
+    font-family: BMJUA_ttf;
 }
 
 h2 {
     color: green;
-    font-family:'Nanum Gothic';
+    font-family: Nanum Gothic;
 }
 
 
