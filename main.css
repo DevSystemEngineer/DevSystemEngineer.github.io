@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'BMJUA_ttf';
-    src: url(/BMJUA_ttf.ttf) format('truetype');
+    src: url(BMJUA_ttf.ttf) format('truetype');
 }
 
 h3 {
