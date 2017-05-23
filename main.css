@@ -1,3 +1,9 @@
 @import url('http://fonts.googleapis.com/earlyaccess/nanumgothic.css');
- 
-body, table, div, p {color: blue; font-family:'Nanum Gothic';}
+
+body {
+    color: blue;
+}
+
+h1 {
+    color: green;
+}
