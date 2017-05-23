@@ -1,9 +1,13 @@
 @import url('http://fonts.googleapis.com/earlyaccess/nanumgothic.css');
 
-body {
+h1 {
     color: blue;
 }
 
-h1 {
+h2 {
     color: green;
+}
+
+h4 {
+    color: red;
 }
