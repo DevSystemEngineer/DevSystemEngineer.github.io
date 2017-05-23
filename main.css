@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'BMJUA_ttf';
-    src: url('https://s3.ap-northeast-2.amazonaws.com/sh-edu-bucket/CloudFrontTest/test1/BMJUA_ttf.ttf') format('truetype');
+    src: url('http://d29kvorb1ovstg.cloudfront.net/CloudFrontTest/test1/BMJUA_ttf.ttf') format('truetype');
 }
 
 #three {
